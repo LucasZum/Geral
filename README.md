@@ -3,9 +3,9 @@ Uso para salvar meus arquivos e testes
 
 
 ## Not Or And
-!    ->  Not
-&&   ->  And
-||   ->  Or
+#### !    ->  Not
+#### &&   ->  And
+#### ||   ->  Or
 
 
 ## print no JS
@@ -19,11 +19,12 @@ print -> console.log ()
 
 #### |Não para o codigo(presisa ser adicionado o break) | Para quando a condição é satisfeita|
 
-#### switch (cor)                   \    if (cor == "branco""):
-####    case 'branco' :             >       meuCarro = "branco";
-####        meuCarro = "branco";   /
+#### switch (cor)                     
+####    case 'branco' :                   
+####        meuCarro = "branco";   
 ####        break;
 
-
+#### if (cor == "branco""):
+#### meuCarro = "branco";
 
 
