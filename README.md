@@ -8,22 +8,24 @@ Uso para salvar meus arquivos e testes
 #### ||   ->  Or
 
 
-## print no JS
-print -> console.log ()
+## Print no JS
+#### print -> console.log ()
 
 
 
 ## Condicionais
 
-### if / else / switch
+## if / else / switch
 
-#### |Não para o codigo(presisa ser adicionado o break) | Para quando a condição é satisfeita|
-
+### |Não para o codigo(presisa ser adicionado o break) 
+###
 #### switch (cor)                     
 ####    case 'branco' :                   
 ####        meuCarro = "branco";   
 ####        break;
-
+#### ------------------------------------
+### |Para quando a condição é satisfeita|
+###
 #### if (cor == "branco""):
 #### meuCarro = "branco";
 
