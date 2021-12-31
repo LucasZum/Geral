@@ -17,12 +17,12 @@ print -> console.log ()
 
 ### if / else / switch
 
-|Não para o codigo(presisa ser adicionado o break) | Para quando a condição é satisfeita|
+#### |Não para o codigo(presisa ser adicionado o break) | Para quando a condição é satisfeita|
 
-switch (cor)                   \    if (cor == "branco""):
-    case 'branco' :             >       meuCarro = "branco";
-        meuCarro = "branco";   /
-        break;
+#### switch (cor)                   \    if (cor == "branco""):
+####    case 'branco' :             >       meuCarro = "branco";
+####        meuCarro = "branco";   /
+####        break;
 
 
 
