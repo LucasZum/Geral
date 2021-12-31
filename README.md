@@ -1,5 +1,4 @@
-# Geral
-Uso para salvar meus arquivos e testes
+# JavaScript Fundations
 
 
 ## Not Or And
