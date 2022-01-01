@@ -14,7 +14,7 @@
 
 ## Condicionais
 
-## if / else / switch
+## if / else / switchh
 
 ### |Não para o codigo(presisa ser adicionado o break) 
 ###
